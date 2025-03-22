@@ -28,21 +28,12 @@ It allows users to **add**, **view**, **update**, and **delete** employee record
 
 ---
 
-## 📸 Screenshots
-
-*(Optional: Add screenshots here by dragging them into your GitHub repo or linking externally)*
-
----
-
 ## 📂 Project Structure
 
 Employee-Management-GUI/ 
 ├── src/ │ ├── Employee.java │ 
 └── EmployeeGUI.java ├── employees.dat # Serialized employee data
 └── README.md
-
-
-
 
 ---
 
